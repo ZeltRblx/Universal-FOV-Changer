@@ -1,14 +1,16 @@
-## Universal FOV Changer
+# Universal FOV Changer
 
-### Info
+[Click here](https://discord.gg/7Q5sukafeX) to join our Discord!
 
-This is a quick project I've done called Universal FOV Changer
+This script should support every decent executor out there, but not all are guaranteed
 
-As the name says, you can change the FOV from any game by using this roblox script. <br />
-You do need a pretty decent executor to run this.
+# Script
 
-If the "Copy Discord Link" button does not work for you, your executor does not support "setclipboard", consider using KRNL or Evon. <br />
-You can find the discord invite link all the way down to credits as well.
+This is the main script
+
+```lua
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FOV-Changer/main/script.lua"))()
+```
 
 ### Why should you choose our script?
 
@@ -26,4 +28,3 @@ You can find the discord invite link all the way down to credits as well.
 ### Credits
 
 Made by Zelt#2710 <br />
-Discord of this project: https://discord.gg/7Q5sukafeX
