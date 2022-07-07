@@ -9,7 +9,7 @@ This script should support every decent executor out there, but not all are guar
 This is the main script
 
 ```lua
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FOV-Changer/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FOV-Changer/main/script.lua"))()
 ```
 
 ### Why should you choose our script?
