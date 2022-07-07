@@ -20,8 +20,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FO
      ex: Even executors that use EasyXploits API! <br />
 ✅ Customizable menu <br />
      ex: You can change the background or accent color of the menu <br />
-✅ Menu can be closed <br />
-     Use Right Shift to toggle the menu on and off <br />
+✅ Great performance <br />
+     Our script should not lag your game, however, if you increase the FOV too much, it might decrease performance because more things will render <br />
 ✅ Discord support for any errors or suggestions <br />
      If you would like to see anything changed or added to this project, consider joining the discord server and going to the suggestions channel <br />
 
