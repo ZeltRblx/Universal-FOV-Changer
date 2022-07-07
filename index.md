@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FO
 ✅ Bypasses change-back methods <br />
      ex: Strucid changes the camera fov back to default if you try to manually change it <br />
 ✅ Supports KRNL, Evon & more free executors <br />
-     ex: Even executors that use EasyXploits API! <br />
+     ex: Even executors that use EasyXploits API are supported (because easyxploits v2 is the best free api in the world xd) <br />
 ✅ Customizable menu <br />
      ex: You can change the background or accent color of the menu <br />
 ✅ Great performance <br />
