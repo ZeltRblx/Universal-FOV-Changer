@@ -1,12 +1,12 @@
 # Universal FOV Changer
 
-## [Click here](https://discord.gg/7Q5sukafeX) to join our Discord!
+[Click here](https://discord.gg/7Q5sukafeX) to join our Discord!
 
-## This script should support every decent executor out there, but not all are guaranteed
+This script should support every decent executor out there, but not all are guaranteed
 
 # Script
 
-## This is the main script
+This is the main script
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeltRblx/Universal-FOV-Changer/main/script.lua"))()
