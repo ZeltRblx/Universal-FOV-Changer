@@ -1,6 +1,6 @@
 ## Universal FOV Changer
 
-# Info
+### Info
 
 This is a quick project I've done called Universal FOV Changer
 
@@ -10,7 +10,7 @@ You do need a pretty decent executor to run this.
 If the "Copy Discord Link" button does not work for you, your executor does not support "setclipboard", consider using KRNL or Evon. <br />
 You have the discord invite link all the way down of this README too.
 
-# Why should you choose our script?
+### Why should you choose our script?
 
 ✅ Bypasses change-back methods <br />
      ex: Strucid changes the camera fov back to default if you try to manually change it <br />
@@ -23,7 +23,7 @@ You have the discord invite link all the way down of this README too.
 ✅ Discord support for any errors or suggestions <br />
      If you would like to see anything changed or added to this project, consider joining the discord server and going to the suggestions channel <br />
 
-# Credits
+### Credits
 
 Made by Zelt#2710 <br />
 Discord of this project: https://discord.gg/7Q5sukafeX
