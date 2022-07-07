@@ -1,4 +1,4 @@
-# Universal FOV Changer
+## Universal FOV Changer
 
 ### Info
 
@@ -8,7 +8,7 @@ As the name says, you can change the FOV from any game by using this roblox scri
 You do need a pretty decent executor to run this.
 
 If the "Copy Discord Link" button does not work for you, your executor does not support "setclipboard", consider using KRNL or Evon. <br />
-You have the discord invite link all the way down of this README too.
+You can find the discord invite link all the way down to credits as well.
 
 ### Why should you choose our script?
 
