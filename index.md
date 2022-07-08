@@ -27,4 +27,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/ZeltRblx/Universal-FO
 
 ### Credits
 
-Made by Zelt#2710 <br />
+Made by Zelt#2710 and Mr. Emerald#5110 <br />
