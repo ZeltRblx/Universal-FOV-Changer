@@ -21,5 +21,5 @@ You have the discord invite link all the way down of this README too.
 
 # Credits
 
-Made by Zelt#2710 <br />
+Made by Zelt#2710 and Mr. Emerald#5110 <br />
 Discord of this project: https://discord.gg/7Q5sukafeX
