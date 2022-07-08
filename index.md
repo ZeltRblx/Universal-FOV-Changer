@@ -1,6 +1,6 @@
 # Universal FOV Changer
 
-[Click here](https://discord.gg/7Q5sukafeX) to join our Discord!
+[Click here](https://discord.gg/Wt7Q3ed9v9) to join our Discord!
 
 This script should support every decent executor out there, but not all are guaranteed
 
